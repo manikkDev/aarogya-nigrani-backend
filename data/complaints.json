@@ -1,0 +1,22 @@
+[
+  {
+    "id": "c1",
+    "citizenName": "Rajesh Kumar",
+    "subDistrictId": "solapur-urban",
+    "category": "Facility Closed",
+    "description": "PHC was closed during operating hours",
+    "status": "in-progress",
+    "priority": "high",
+    "timestamp": "2026-02-07T11:00:00Z"
+  },
+  {
+    "id": "c2",
+    "citizenName": "Sunita Devi",
+    "subDistrictId": "pandharpur",
+    "category": "Medicine Shortage",
+    "description": "No paracetamol available for 3 days",
+    "status": "pending",
+    "priority": "medium",
+    "timestamp": "2026-02-08T09:30:00Z"
+  }
+]

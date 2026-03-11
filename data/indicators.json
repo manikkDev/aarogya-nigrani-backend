@@ -1,0 +1,23 @@
+[
+  {
+    "indicator": "Immunisation coverage",
+    "currentYear": 78,
+    "previousYear": 73,
+    "percentageChange": 6.8,
+    "trend": "up"
+  },
+  {
+    "indicator": "Maternal checkups",
+    "currentYear": 10400,
+    "previousYear": 9800,
+    "percentageChange": 6.1,
+    "trend": "up"
+  },
+  {
+    "indicator": "OPD attendance",
+    "currentYear": 129000,
+    "previousYear": 122000,
+    "percentageChange": 5.7,
+    "trend": "up"
+  }
+]

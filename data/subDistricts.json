@@ -1,0 +1,44 @@
+[
+  {
+    "id": "solapur-urban",
+    "name": "Solapur Urban",
+    "population": 350000,
+    "riskLevel": "high",
+    "coordinates": { "lat": 17.6599, "lng": 75.9064 },
+    "healthMetrics": {
+      "ancRegistrations": 4200,
+      "deliveriesAtFacility": 980,
+      "immunizationCoverage": 74,
+      "opdAttendance": 52000,
+      "ipdAttendance": 6300
+    }
+  },
+  {
+    "id": "pandharpur",
+    "name": "Pandharpur",
+    "population": 270000,
+    "riskLevel": "medium",
+    "coordinates": { "lat": 17.6810, "lng": 75.3300 },
+    "healthMetrics": {
+      "ancRegistrations": 3200,
+      "deliveriesAtFacility": 840,
+      "immunizationCoverage": 78,
+      "opdAttendance": 41000,
+      "ipdAttendance": 5200
+    }
+  },
+  {
+    "id": "barshi",
+    "name": "Barshi",
+    "population": 210000,
+    "riskLevel": "low",
+    "coordinates": { "lat": 18.2330, "lng": 75.6940 },
+    "healthMetrics": {
+      "ancRegistrations": 2700,
+      "deliveriesAtFacility": 640,
+      "immunizationCoverage": 82,
+      "opdAttendance": 36000,
+      "ipdAttendance": 4300
+    }
+  }
+]
