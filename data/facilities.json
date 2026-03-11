@@ -1,0 +1,72 @@
+[
+  {
+    "id": "sdh-pandharpur",
+    "name": "SDH Pandharpur",
+    "type": "SDH",
+    "subDistrictId": "pandharpur",
+    "subDistrictName": "Pandharpur",
+    "coordinates": { "lat": 17.6781, "lng": 75.3277 },
+    "totalBeds": 200,
+    "occupiedBeds": 156,
+    "services": ["Emergency", "Surgery", "OB-GYN", "Pediatrics", "ICU", "Blood Bank"],
+    "performance": {
+      "deliveries": 117,
+      "opdAttendance": 8447,
+      "ipdAttendance": 848,
+      "majorOperations": 180,
+      "minorOperations": 109
+    },
+    "contact": { "phone": "02186-222001", "timings": "24x7" },
+    "medicineStock": [
+      { "name": "Paracetamol", "status": "OK" },
+      { "name": "ORS", "status": "Low" },
+      { "name": "Amoxicillin", "status": "OK" }
+    ]
+  },
+  {
+    "id": "chc-mohol",
+    "name": "CHC Mohol",
+    "type": "CHC",
+    "subDistrictId": "solapur-urban",
+    "subDistrictName": "Solapur Urban",
+    "coordinates": { "lat": 17.6800, "lng": 75.9000 },
+    "totalBeds": 60,
+    "occupiedBeds": 49,
+    "services": ["Emergency", "OB-GYN", "General"],
+    "performance": {
+      "deliveries": 62,
+      "opdAttendance": 4715,
+      "ipdAttendance": 312,
+      "majorOperations": 22,
+      "minorOperations": 64
+    },
+    "contact": { "phone": "02182-222002", "timings": "24x7" },
+    "medicineStock": [
+      { "name": "Anti-malarial", "status": "Out" },
+      { "name": "Dengue Kit", "status": "Low" }
+    ]
+  },
+  {
+    "id": "phc-jijamata",
+    "name": "SMC Jijamata PHC",
+    "type": "PHC",
+    "subDistrictId": "solapur-urban",
+    "subDistrictName": "Solapur Urban",
+    "coordinates": { "lat": 17.6650, "lng": 75.8950 },
+    "totalBeds": 40,
+    "occupiedBeds": 38,
+    "services": ["OPD", "Immunization"],
+    "performance": {
+      "deliveries": 48,
+      "opdAttendance": 3200,
+      "ipdAttendance": 180,
+      "majorOperations": 6,
+      "minorOperations": 24
+    },
+    "contact": { "phone": "0217-2315005", "timings": "8 AM - 8 PM" },
+    "medicineStock": [
+      { "name": "Paracetamol", "status": "Out" },
+      { "name": "ORS", "status": "Low" }
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "uid": "admin-1",
+    "email": "admin@smc.in",
+    "role": "admin",
+    "password": "$2a$10$celVczwtvRGhVw9zYqzrVO.03uWp/Xgd7hn4c1VGQUO3IY8.0/prC"
+  },
+  {
+    "uid": "staff-1",
+    "email": "staff@hospital.in",
+    "role": "staff",
+    "password": "$2a$10$celVczwtvRGhVw9zYqzrVO.03uWp/Xgd7hn4c1VGQUO3IY8.0/prC"
+  },
+  {
+    "uid": "citizen-1",
+    "email": "citizen@example.com",
+    "role": "citizen",
+    "password": "$2a$10$celVczwtvRGhVw9zYqzrVO.03uWp/Xgd7hn4c1VGQUO3IY8.0/prC"
+  },
+  {
+    "uid": "user-1770554251768",
+    "email": "nigga@gmail.com",
+    "role": "citizen",
+    "displayName": "",
+    "password": "$2a$10$c/0q79xuPlWLlBklijFsE.hfYyTKm9JmIWXeo/axMI7zQJ90V20nm"
+  },
+  {
+    "uid": "user-1770554433349",
+    "email": "nigga2@gmail.com",
+    "role": "staff",
+    "displayName": "",
+    "password": "$2a$10$kU69ayzN.gx/rTWQYKLD3.F0jijoeNcljcqb0CdJ96d1Z5neBKp9S"
+  },
+  {
+    "uid": "user-1770569367265",
+    "email": "hello@gmail.com",
+    "role": "citizen",
+    "displayName": "",
+    "password": "$2a$10$YkH6WQS3uc.8JToM9RlCPOZda27uA2qnz9KZfRWn4tJzwhM3yhgjW"
+  },
+  {
+    "uid": "user-1771340561718",
+    "email": "test638378a6f7e54075a8b971a1e4673918@example.com",
+    "role": "citizen",
+    "displayName": "",
+    "password": "$2a$10$NMfVur4BdK/KenOZKtiA/.6/WhwI452EM0JWI33.njpbnAJiMXB5G"
+  }
+]

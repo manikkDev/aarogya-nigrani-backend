@@ -1,0 +1,170 @@
+[
+  {
+    "id": "c81eee3c-3ca2-4a96-8d0e-520f8158e472",
+    "subDistrictId": "solapur-urban",
+    "subDistrictName": "Solapur Urban",
+    "type": "general",
+    "severity": "low",
+    "message": "Vaccination and health awareness drive scheduled in Solapur Urban",
+    "timestamp": "2026-02-20T18:00:00.377Z",
+    "isResolved": false
+  },
+  {
+    "id": "f34eeac2-02e7-4e8b-909f-5e5e6c951560",
+    "subDistrictId": "pandharpur",
+    "subDistrictName": "Pandharpur",
+    "type": "general",
+    "severity": "low",
+    "message": "Vaccination and health awareness drive scheduled in Pandharpur",
+    "timestamp": "2026-02-20T18:00:00.377Z",
+    "isResolved": false
+  },
+  {
+    "id": "ec2995a9-4abb-4470-94a6-4fafbd85edcb",
+    "subDistrictId": "barshi",
+    "subDistrictName": "Barshi",
+    "type": "general",
+    "severity": "low",
+    "message": "Vaccination and health awareness drive scheduled in Barshi",
+    "timestamp": "2026-02-20T18:00:00.377Z",
+    "isResolved": false
+  },
+  {
+    "id": "4e183e45-aa3b-4718-b109-a7c83bd69dfd",
+    "subDistrictId": "solapur-urban",
+    "subDistrictName": "Solapur Urban",
+    "type": "outbreak",
+    "severity": "high",
+    "message": "Vector-borne cases are 145% of baseline",
+    "timestamp": "2026-02-20T18:00:00.376Z",
+    "disease": "Vector-borne",
+    "isResolved": false
+  },
+  {
+    "id": "e1a3d1b8-9656-42fa-a2b1-ea10c0354ddd",
+    "subDistrictId": "solapur-urban",
+    "subDistrictName": "Solapur Urban",
+    "type": "outbreak",
+    "severity": "high",
+    "message": "Water-borne cases are 134% of baseline",
+    "timestamp": "2026-02-20T18:00:00.376Z",
+    "disease": "Water-borne",
+    "isResolved": false
+  },
+  {
+    "id": "038ca4e3-c753-457f-8530-4fab93d9b632",
+    "subDistrictId": "pandharpur",
+    "subDistrictName": "Pandharpur",
+    "type": "outbreak",
+    "severity": "high",
+    "message": "Vector-borne cases are 145% of baseline",
+    "timestamp": "2026-02-20T18:00:00.376Z",
+    "disease": "Vector-borne",
+    "isResolved": false
+  },
+  {
+    "id": "c13c9b54-1821-49f2-8c92-f65c3777dadd",
+    "subDistrictId": "pandharpur",
+    "subDistrictName": "Pandharpur",
+    "type": "outbreak",
+    "severity": "high",
+    "message": "Water-borne cases are 134% of baseline",
+    "timestamp": "2026-02-20T18:00:00.376Z",
+    "disease": "Water-borne",
+    "isResolved": false
+  },
+  {
+    "id": "ae94a562-7c4a-4cbb-851c-10c9994fbc91",
+    "subDistrictId": "barshi",
+    "subDistrictName": "Barshi",
+    "type": "outbreak",
+    "severity": "high",
+    "message": "Vector-borne cases are 145% of baseline",
+    "timestamp": "2026-02-20T18:00:00.376Z",
+    "disease": "Vector-borne",
+    "isResolved": false
+  },
+  {
+    "id": "ce687442-c873-493f-9c56-0fc85a906ae1",
+    "subDistrictId": "barshi",
+    "subDistrictName": "Barshi",
+    "type": "outbreak",
+    "severity": "high",
+    "message": "Water-borne cases are 134% of baseline",
+    "timestamp": "2026-02-20T18:00:00.376Z",
+    "disease": "Water-borne",
+    "isResolved": false
+  },
+  {
+    "id": "dc2119d7-75f4-4732-b77c-1da1e61a8574",
+    "subDistrictId": "pandharpur",
+    "subDistrictName": "Pandharpur",
+    "facilityId": "sdh-pandharpur",
+    "facilityName": "SDH Pandharpur",
+    "type": "stock",
+    "severity": "medium",
+    "message": "ORS stock Low at SDH Pandharpur",
+    "timestamp": "2026-02-20T18:00:00.376Z",
+    "isResolved": false
+  },
+  {
+    "id": "c5097acd-973f-4c03-99d9-bbc61745da63",
+    "subDistrictId": "solapur-urban",
+    "subDistrictName": "Solapur Urban",
+    "facilityId": "chc-mohol",
+    "facilityName": "CHC Mohol",
+    "type": "stock",
+    "severity": "high",
+    "message": "Anti-malarial stock Out at CHC Mohol",
+    "timestamp": "2026-02-20T18:00:00.376Z",
+    "isResolved": false
+  },
+  {
+    "id": "1ad75e17-6908-49fd-84ec-377a93592019",
+    "subDistrictId": "solapur-urban",
+    "subDistrictName": "Solapur Urban",
+    "facilityId": "chc-mohol",
+    "facilityName": "CHC Mohol",
+    "type": "stock",
+    "severity": "medium",
+    "message": "Dengue Kit stock Low at CHC Mohol",
+    "timestamp": "2026-02-20T18:00:00.376Z",
+    "isResolved": false
+  },
+  {
+    "id": "80398d4c-1c73-49fa-aeab-ad7709b3aa58",
+    "subDistrictId": "solapur-urban",
+    "subDistrictName": "Solapur Urban",
+    "facilityId": "phc-jijamata",
+    "facilityName": "SMC Jijamata PHC",
+    "type": "bed",
+    "severity": "critical",
+    "message": "SMC Jijamata PHC bed occupancy at 95%",
+    "timestamp": "2026-02-20T18:00:00.376Z",
+    "isResolved": false
+  },
+  {
+    "id": "507c4e04-3363-4d15-a00e-b5818f3e93ae",
+    "subDistrictId": "solapur-urban",
+    "subDistrictName": "Solapur Urban",
+    "facilityId": "phc-jijamata",
+    "facilityName": "SMC Jijamata PHC",
+    "type": "stock",
+    "severity": "high",
+    "message": "Paracetamol stock Out at SMC Jijamata PHC",
+    "timestamp": "2026-02-20T18:00:00.376Z",
+    "isResolved": false
+  },
+  {
+    "id": "a3a9f84c-979b-4375-bd2b-2211ef91e599",
+    "subDistrictId": "solapur-urban",
+    "subDistrictName": "Solapur Urban",
+    "facilityId": "phc-jijamata",
+    "facilityName": "SMC Jijamata PHC",
+    "type": "stock",
+    "severity": "medium",
+    "message": "ORS stock Low at SMC Jijamata PHC",
+    "timestamp": "2026-02-20T18:00:00.376Z",
+    "isResolved": false
+  }
+]

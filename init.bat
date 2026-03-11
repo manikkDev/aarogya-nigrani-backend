@@ -1,0 +1,8 @@
+@echo off
+if exist .git rmdir /s /q .git
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/manikkDev/aarogya-nigrani-backend.git
+git push -u origin main --force

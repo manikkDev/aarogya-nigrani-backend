@@ -1,0 +1,18 @@
+[
+  {
+    "indicator": "Deliveries conducted at facility",
+    "facilityType": "SDH",
+    "totalFacilities": 2,
+    "nilPerformingFacilities": 0,
+    "maxPerformance": { "value": 117, "subDistrict": "Pandharpur", "facility": "Pandharpur" },
+    "minPerformance": { "value": 60, "subDistrict": "Solapur Urban", "facility": "Mohol" }
+  },
+  {
+    "indicator": "OPD attendance (All)",
+    "facilityType": "CHC",
+    "totalFacilities": 1,
+    "nilPerformingFacilities": 0,
+    "maxPerformance": { "value": 4715, "subDistrict": "Solapur Urban", "facility": "Mohol" },
+    "minPerformance": { "value": 4715, "subDistrict": "Solapur Urban", "facility": "Mohol" }
+  }
+]

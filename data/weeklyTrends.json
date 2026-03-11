@@ -1,0 +1,10 @@
+[
+  { "week": "W1", "vectorBorne": 45, "waterBorne": 30 },
+  { "week": "W2", "vectorBorne": 52, "waterBorne": 28 },
+  { "week": "W3", "vectorBorne": 48, "waterBorne": 35 },
+  { "week": "W4", "vectorBorne": 60, "waterBorne": 42 },
+  { "week": "W5", "vectorBorne": 55, "waterBorne": 50 },
+  { "week": "W6", "vectorBorne": 70, "waterBorne": 55 },
+  { "week": "W7", "vectorBorne": 85, "waterBorne": 48 },
+  { "week": "W8", "vectorBorne": 92, "waterBorne": 58 }
+]
